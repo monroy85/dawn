@@ -312,11 +312,13 @@ class MenuDrawer extends HTMLElement {
       if(isOpen) event.preventDefault();
       isOpen ? this.closeMenuDrawer(summaryElement) : this.openMenuDrawer(summaryElement);
     } else {
-      trapFocus(summaryElement.nextElementSibling, detailsElement.querySelector('button'));
-
       setTimeout(() => {
         detailsElement.classList.add('menu-opening');
       });
+
+      setTimeout(() => {
+        trapFocus(summaryElement.nextElementSibling, detailsElement.querySelector('button'));
+      },100);
     }
   }
 
