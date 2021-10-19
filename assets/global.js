@@ -308,17 +308,19 @@ class MenuDrawer extends HTMLElement {
     const detailsElement = summaryElement.parentNode;
     const isOpen = detailsElement.hasAttribute('open');
 
+    function addTrapFocus(event) {
+      trapFocus(summaryElement.nextElementSibling, detailsElement.querySelector('button'));
+      summaryElement.nextElementSibling.removeEventListener('transitionend', addTrapFocus);
+    }
+
     if (detailsElement === this.mainDetailsToggle) {
       if(isOpen) event.preventDefault();
       isOpen ? this.closeMenuDrawer(summaryElement) : this.openMenuDrawer(summaryElement);
     } else {
       setTimeout(() => {
         detailsElement.classList.add('menu-opening');
+        summaryElement.nextElementSibling.addEventListener('transitionend', addTrapFocus);
       });
-
-      setTimeout(() => {
-        trapFocus(summaryElement.nextElementSibling, detailsElement.querySelector('button'));
-      },100);
     }
   }
 
