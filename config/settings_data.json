@@ -15,6 +15,7 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "Welcome to our store",
               "color_scheme": "background-1",
@@ -32,8 +33,9 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo_width": 100,
-          "logo_position": "middle-left",
+          "logo": "shopify:\/\/shop_images\/Black_Salty_LogoAsset_1_4x_e064c3d6-a1d4-4aa4-bbbf-1a8f459e0b40.png",
+          "logo_width": 130,
+          "logo_position": "top-center",
           "menu": "main-menu",
           "show_line_separator": true,
           "enable_sticky_header": true
