@@ -2,13 +2,15 @@
   "current": {
     "colors_solid_button_labels": "#FFFFFF",
     "colors_accent_1": "#121212",
-    "colors_accent_2": "#334FB4",
+    "colors_accent_2": "#95cccb",
     "colors_text": "#121212",
     "colors_outline_button_labels": "#121212",
     "colors_background_1": "#FFFFFF",
     "colors_background_2": "#F3F3F3",
     "type_header_font": "assistant_n4",
     "type_body_font": "assistant_n4",
+    "social_instagram_link": "https:\/\/www.instagram.com\/saltyhairextensions\/",
+    "social_tiktok_link": "https:\/\/www.tiktok.com\/@saltyhairextensions",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
