@@ -1,0 +1,135 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1635134557bf3c7e6d": {
+      "type": "image-banner",
+      "blocks": {
+        "1635134557bf3c7e6d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "FAQ's",
+            "heading_size": "medium"
+          }
+        },
+        "1635134557bf3c7e6d-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Video training in the Salty Hair Extension Method Move through at your own pace"
+          }
+        },
+        "1635134557bf3c7e6d-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1635134557bf3c7e6d-0",
+        "1635134557bf3c7e6d-1",
+        "1635134557bf3c7e6d-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/7Z5A1048-min.jpg",
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1635135189a1b9322d": {
+      "type": "rich-text",
+      "blocks": {
+        "1635135189a1b9322d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Salty Method Certification",
+            "heading_size": "h1"
+          }
+        },
+        "1635135189a1b9322d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hair Care Instructions<\/p><p><strong>Shampoo and condition with sulfate-free, professional products every 2-3 days.<\/strong><\/p><p><strong>Do not rub or twist extension hair.<\/strong><\/p><p><strong>Detangle hair when hair is dry with an extension-safe brush before shampooing.<\/strong><\/p><p><strong>Gently massage shampoo back and forth into the hair. <\/strong><\/p><p><strong>Let shampoo run down ends while rinsing with warm water.<\/strong><\/p><p><strong>Apply conditioner to mid-shaft and ends of hair, let it sit for 3-5 minutes, then rinse.<\/strong><\/p><p><strong>Squeeze out excess water with a towel. Apply conditioning oil to ends (we prefer L’oréal Mythic Oil) and spray in leave-in conditioner\/detangler (we like 12 Benefits Instant Healthy Hair Treatment).<\/strong><\/p><p><strong>Allow to air-dry 80%. Only use a blow dryer on low\/medium\/cool for the final 20% of the drying process.<\/strong><\/p><p><strong>Style as normal. Brush hair daily while holding weft with one hand to prevent pulling\/tugging at the scalp.<\/strong><\/p><p><strong>Never cut the hand-tied hair weft; doing so could cause shedding\/unraveling of extension hair.<\/strong><a><strong>Privacy Policy<\/strong><\/a><\/p><p>Your Privacy is important to us. We will not share your information with others. To see more details on our Privacy Policy please Click <a href=\"https:\/\/www.saltyhairextensions.com\/wp-content\/uploads\/2019\/04\/efbc6764-2b1c-48a9-9db9-2db10cc1975a\"><strong>HERE<\/strong><\/a><\/p><p><a><strong>Exchange Policy<\/strong><\/a><\/p><p>**We value trust and transparency and are confident in our products**<br\/>If for some reason you should become unsatisfied with our quality and would like to exchange or return your order within 30-days, we will refund your amount 100% hassel free, and also pay for shipping both ways. (for unused hair)<br\/>IF YOU WOULD LIKE TO EXCHANGE OR RETURN YOUR SALTY HAIR ITEM:<br\/>PLEASE EMAIL US  AT <a href=\"mailto:support@saltyhairextensions.com\">SUPPORT@SALTYHAIREXTENSIONS.COM<\/a> EXPLAINING THE ISSUE AND SOMEONE WILL CONTACT YOU WITHIN 1 BUSINESS DAY.<br\/>PLEASE DO NOT SEND AN ITEM BACK WITHOUT CONTACTING US.<br\/>Items need to be returned UNOPENED, in original packaging. Which means the following for each item:<br\/>Original ties MUST still be in place around (unaltered) full weft. If damage or alteration is visible, the item will not be exchanged. <br\/><br\/><strong>Human hair extensions are considered a hygienic product. <\/strong>We take matters of hygiene and public safety seriously and do not allow opened items to be returned for the safety of all our customers.<br\/><br\/>We are not alone – other hair extensions suppliers do not allow returns of opened items for the same reasons.<br\/>**ALL APPROVED EXCHANGES WILL BE shipped prepaid by Salty Hair Extensions**<br\/>**Please allow 7-10 business days for exchange items once we receive the product you are exchanging**<\/p>"
+          }
+        },
+        "1635135189a1b9322d-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Apply",
+            "button_link": "https:\/\/thesaltymethod.mykajabi.com\/extension-application",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1635135189a1b9322d-0",
+        "1635135189a1b9322d-1",
+        "1635135189a1b9322d-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true
+      }
+    },
+    "163513479109602f01": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "163513479109602f01-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Salty Method Training",
+            "heading_size": "h1"
+          }
+        },
+        "163513479109602f01-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Video training in the Salty Hair Extension Method<\/p><p>Move through at your own pace<\/p><p>Lifetime access to courseExclusive Salty Hair Extension Kit <em>($300 value)<\/em><\/p><p><em><strong>$1700<\/strong><\/em><\/p>"
+          }
+        },
+        "163513479109602f01-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Apply",
+            "button_link": "https:\/\/thesaltymethod.mykajabi.com\/extension-training-application",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "163513479109602f01-0",
+        "163513479109602f01-1",
+        "163513479109602f01-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1635134557bf3c7e6d",
+    "1635135189a1b9322d",
+    "163513479109602f01"
+  ]
+}
