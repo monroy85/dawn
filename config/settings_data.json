@@ -6,11 +6,16 @@
     "colors_text": "#121212",
     "colors_outline_button_labels": "#121212",
     "colors_background_1": "#FFFFFF",
-    "colors_background_2": "#F3F3F3",
+    "colors_background_2": "#95cccb",
     "type_header_font": "assistant_n4",
     "type_body_font": "assistant_n4",
     "social_instagram_link": "https:\/\/www.instagram.com\/saltyhairextensions\/",
     "social_tiktok_link": "https:\/\/www.tiktok.com\/@saltyhairextensions",
+    "favicon": "shopify:\/\/shop_images\/Salty_profile_Thumbnail.png",
+    "checkout_header_image": "shopify:\/\/shop_images\/7Z5A1567-min.jpg",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Black_Salty_LogoAsset_1_4x_e064c3d6-a1d4-4aa4-bbbf-1a8f459e0b40.png",
+    "checkout_accent_color": "#95cccb",
+    "checkout_button_color": "#95cccb",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
