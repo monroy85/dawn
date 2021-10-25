@@ -102,20 +102,66 @@
         "163513373640fcbfe3-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/krystal-hand-tied-extensions.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
       }
     },
+    "16351339596e9eb57b": {
+      "type": "image-banner",
+      "blocks": {
+        "16351339596e9eb57b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Story",
+            "heading_size": "medium"
+          }
+        },
+        "16351339596e9eb57b-1": {
+          "type": "text",
+          "settings": {
+            "text": "As a beaded row extension stylist, I spent years perfecting my craft, only to lose clients because of poor quality hair... We decided to do something about it. We struggled to find a hand-tied weft option that consistently satisfied not only our own expectations but more importantly our clients. Most were too thin, too bulky, or even matted after just a couple of washes. So we decided to make our own! After more than a year of tweaking and fine-tuning, we finally have a product we are proud of!"
+          }
+        },
+        "16351339596e9eb57b-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16351339596e9eb57b-0",
+        "16351339596e9eb57b-1",
+        "16351339596e9eb57b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/7Z5A1063-min.jpg",
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "featured_products": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "Featured products",
-        "collection": "all",
+        "collection": "add-ons",
         "products_to_show": 4,
         "show_view_all": true,
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "image_ratio": "square",
         "show_secondary_image": false,
         "add_image_padding": false,
@@ -216,62 +262,16 @@
         "button_link": "",
         "swipe_on_mobile": false
       }
-    },
-    "16351339596e9eb57b": {
-      "type": "image-banner",
-      "blocks": {
-        "16351339596e9eb57b-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Our Story",
-            "heading_size": "medium"
-          }
-        },
-        "16351339596e9eb57b-1": {
-          "type": "text",
-          "settings": {
-            "text": "As a beaded row extension stylist, I spent years perfecting my craft, only to lose clients because of poor quality hair... We decided to do something about it. We struggled to find a hand-tied weft option that consistently satisfied not only our own expectations but more importantly our clients. Most were too thin, too bulky, or even matted after just a couple of washes. So we decided to make our own! After more than a year of tweaking and fine-tuning, we finally have a product we are proud of!"
-          }
-        },
-        "16351339596e9eb57b-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "16351339596e9eb57b-0",
-        "16351339596e9eb57b-1",
-        "16351339596e9eb57b-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/7Z5A1063-min.jpg",
-        "image_height": "medium",
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
-        "show_text_box": true,
-        "image_overlay_opacity": 0,
-        "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
     }
   },
   "order": [
     "image_banner",
     "rich_text",
     "163513373640fcbfe3",
+    "16351339596e9eb57b",
     "featured_products",
     "collage",
     "video",
-    "multi_column",
-    "16351339596e9eb57b"
+    "multi_column"
   ]
 }
