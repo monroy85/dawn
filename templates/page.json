@@ -2,13 +2,11 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {
       }
     },
     "1635134557bf3c7e6d": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "1635134557bf3c7e6d-0": {
           "type": "heading",
@@ -55,7 +53,6 @@
     },
     "1635135189a1b9322d": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "1635135189a1b9322d-0": {
           "type": "heading",
@@ -67,7 +64,7 @@
         "1635135189a1b9322d-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pro Membership First Name *  Last Name *  Email Address *  Phone Number *  What is your Social Media Profile? *  What hair extension method are you certified in? *  Where did you hear about us? *  If referred by another Stylist  Which stylist referred you?   If first seen on Social Media Which Platform   Instagram<br\/> TikTok<br\/>Upload your Cosmetology or Salon Business License *  Password *  Confirm Password *  Submit Application.aaamembership_form .membership-submit button &lcub; background-color: #000000  !important; &rcub;.aaamembership_form .membership-submit button &lcub; color: #FFFFFF  !important; &rcub;.aaamembership_form .membership-submit button &lcub; font-size: 14px !important; &rcub;.aaamembership_form input[type=\"text\"], .aaamembership_form input[type=\"search\"], .aaamembership_form input[type=\"password\"], .aaamembership_form input[type=\"email\"], .aaamembership_form input[type=\"file\"], .aaamembership_form input[type=\"number\"], .aaamembership_form input[type=\"tel\"], .aaamembership_form textarea, .aaamembership_form select &lcub; width: 100% !important; margin: 0;border: 1px solid #ccc; &rcub; function isMyMembershipScriptLoaded() &lcub; var url = 'https:\/\/shopifycdn.aaawebstore.com\/membership\/appfiles\/aaa_membership_script_min_v3.js?shop=saltyhairextensions.myshopify.com'; var jsFound = 0; var scripts = document.getElementsByTagName('script');  for (var i = scripts.length; i--;) &lcub; if (scripts[i].src == url) &lcub; jsFound = 1; &rcub; &rcub; if(!jsFound) &lcub; var headTag = document.getElementsByTagName('head')[0]; var jqTag = document.createElement('script'); jqTag.type = 'text\/javascript'; jqTag.src = url; jqTag.onload = ''; headTag.appendChild(jqTag); &rcub; &rcub; isMyMembershipScriptLoaded(); <\/p>"
+            "text": "<p>Video training in the Salty Hair Extension Method<\/p><p>5 weeks to certification1:1 support<\/p><p>Lifetime access to course<\/p><p>Exclusive Salty Hair Extension Kit <em>($300 value)<\/em><\/p><p>Acceptance as a Salty Pro upon completion<\/p><p><strong>$2200<\/strong><\/p>"
           }
         },
         "1635135189a1b9322d-2": {
@@ -91,7 +88,6 @@
     },
     "163513479109602f01": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "163513479109602f01-0": {
           "type": "heading",
