@@ -54,11 +54,20 @@
         "1635134521091e5a2f-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/7Z5A1675-min.jpg",
+            "title": "The Salty Method Training",
+            "text": "<p>Video training in the Salty Hair Extension MethodMove through at your own paceLifetime access to courseExclusive Salty Hair Extension Kit <em>($300 value)<\/em><\/p>"
+          }
+        },
+        "1635134521091e5a2f-2": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
         },
-        "1635134521091e5a2f-2": {
+        "aab73137-cefe-4d45-9e31-407eb5b80a2d": {
           "type": "column",
           "disabled": true,
           "settings": {
@@ -70,7 +79,8 @@
       "block_order": [
         "1635134521091e5a2f-0",
         "1635134521091e5a2f-1",
-        "1635134521091e5a2f-2"
+        "1635134521091e5a2f-2",
+        "aab73137-cefe-4d45-9e31-407eb5b80a2d"
       ],
       "settings": {
         "title": "Multicolumn",
