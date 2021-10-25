@@ -44,21 +44,21 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Local Pick up",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>MWF 8am-2pm For Local Pickup address DM, Email or Text Not sure about a color? We can help! Just email 2 to 3 pictures in GOOD lighting . Send us an email and we will provide our advice within 1 business day.<\/p>"
           }
         },
         "button": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "support@saltyhairextensions.com",
+            "button_link": "mailto:support@saltyhairextensions.com",
             "button_style_secondary": false
           }
         }
