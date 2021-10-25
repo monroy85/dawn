@@ -54,6 +54,7 @@
         },
         "1635134521091e5a2f-1": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/7Z5A1675-min.jpg",
             "title": "The Salty Method Training",
@@ -144,21 +145,21 @@
         "163513479109602f01-0": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "The Salty Method Training",
             "heading_size": "h1"
           }
         },
         "163513479109602f01-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Video training in the Salty Hair Extension Method<\/p><p>Move through at your own pace<\/p><p>Lifetime access to courseExclusive Salty Hair Extension Kit <em>($300 value)<\/em><\/p>"
           }
         },
         "163513479109602f01-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "$1700",
+            "button_link": "https:\/\/thesaltymethod.mykajabi.com\/extension-training-application",
             "button_style_secondary": false
           }
         }
@@ -172,6 +173,41 @@
         "color_scheme": "background-1",
         "full_width": true
       }
+    },
+    "1635135189a1b9322d": {
+      "type": "rich-text",
+      "blocks": {
+        "1635135189a1b9322d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Salty Method Certification",
+            "heading_size": "h1"
+          }
+        },
+        "1635135189a1b9322d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Video training in the Salty Hair Extension Method<\/p><p>5 weeks to certification1:1 support<\/p><p>Lifetime access to course<\/p><p>Exclusive Salty Hair Extension Kit <em>($300 value)<\/em><\/p><p>Acceptance as a Salty Pro upon completion<\/p>"
+          }
+        },
+        "1635135189a1b9322d-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Apply",
+            "button_link": "https:\/\/thesaltymethod.mykajabi.com\/extension-application",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1635135189a1b9322d-0",
+        "1635135189a1b9322d-1",
+        "1635135189a1b9322d-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true
+      }
     }
   },
   "order": [
@@ -179,6 +215,7 @@
     "163513440523cdc24c",
     "1635134521091e5a2f",
     "1635134557bf3c7e6d",
-    "163513479109602f01"
+    "163513479109602f01",
+    "1635135189a1b9322d"
   ]
 }
