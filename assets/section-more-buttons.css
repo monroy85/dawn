@@ -77,4 +77,5 @@
   margin-top: 2rem;
   margin-left: 1rem;
   margin-right; 1rem;
+  width: calc(100% - 1rem);
 }
