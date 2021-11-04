@@ -148,19 +148,19 @@
             "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
         },
+        "16360530517cd9effd-3": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop",
+            "button_link": "shopify:\/\/collections",
+            "button_style_secondary": false
+          }
+        },
         "16360530517cd9effd-2": {
           "type": "button",
           "settings": {
             "button_label": "Apply",
             "button_link": "shopify:\/\/pages\/apply",
-            "button_style_secondary": false
-          }
-        },
-        "16360530517cd9effd-3": {
-          "type": "button",
-          "settings": {
-            "button_label": "education",
-            "button_link": "shopify:\/\/pages\/education",
             "button_style_secondary": false
           }
         },
@@ -188,27 +188,33 @@
             "button_style_secondary": false
           }
         },
+        "c77e98e3-c8c6-4752-adae-64372fd44d13": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Education<\/strong><\/p>"
+          }
+        },
         "16360530517cd9effd-7": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Education",
+            "button_link": "shopify:\/\/pages\/education",
             "button_style_secondary": false
           }
         },
         "16360530517cd9effd-8": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Get Certified",
+            "button_link": "https:\/\/thesaltymethod.mykajabi.com\/extension-application",
             "button_style_secondary": false
           }
         },
         "16360530517cd9effd-9": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Self Paced Salty Method Training",
+            "button_link": "https:\/\/thesaltymethod.mykajabi.com\/extension-training-application",
             "button_style_secondary": false
           }
         },
@@ -232,11 +238,12 @@
       "block_order": [
         "16360530517cd9effd-0",
         "16360530517cd9effd-1",
-        "16360530517cd9effd-2",
         "16360530517cd9effd-3",
+        "16360530517cd9effd-2",
         "16360530517cd9effd-4",
         "16360530517cd9effd-5",
         "16360530517cd9effd-6",
+        "c77e98e3-c8c6-4752-adae-64372fd44d13",
         "16360530517cd9effd-7",
         "16360530517cd9effd-8",
         "16360530517cd9effd-9",
