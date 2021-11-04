@@ -175,6 +175,7 @@
         },
         "16360530517cd9effd-5": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": "",
@@ -183,6 +184,7 @@
         },
         "16360530517cd9effd-6": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": "",
@@ -221,6 +223,7 @@
         },
         "16360530517cd9effd-10": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": "",
@@ -229,6 +232,7 @@
         },
         "16360530517cd9effd-11": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": "",
