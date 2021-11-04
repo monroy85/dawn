@@ -8,6 +8,7 @@
     },
     "1635134557bf3c7e6d": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "1635134557bf3c7e6d-0": {
           "type": "heading",
@@ -55,6 +56,7 @@
     },
     "1635135189a1b9322d": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "1635135189a1b9322d-0": {
           "type": "heading",
@@ -93,19 +95,6 @@
       "type": "rich-text",
       "disabled": true,
       "blocks": {
-        "163513479109602f01-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "The Salty Method Training",
-            "heading_size": "h1"
-          }
-        },
-        "163513479109602f01-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Video training in the Salty Hair Extension Method<\/p><p>Move through at your own pace<\/p><p>Lifetime access to courseExclusive Salty Hair Extension Kit <em>($300 value)<\/em><\/p><p><em><strong>$1700<\/strong><\/em><\/p>"
-          }
-        },
         "163513479109602f01-2": {
           "type": "button",
           "settings": {
@@ -116,9 +105,43 @@
         }
       },
       "block_order": [
-        "163513479109602f01-0",
-        "163513479109602f01-1",
         "163513479109602f01-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "1636000779e2c45c31": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "1636000779e2c45c31-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "1636000779e2c45c31-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "1636000779e2c45c31-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1636000779e2c45c31-0",
+        "1636000779e2c45c31-1",
+        "1636000779e2c45c31-2"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -130,6 +153,7 @@
     "main",
     "1635134557bf3c7e6d",
     "1635135189a1b9322d",
-    "163513479109602f01"
+    "163513479109602f01",
+    "1636000779e2c45c31"
   ]
 }
