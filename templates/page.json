@@ -131,11 +131,128 @@
         "stack_images_on_mobile": false,
         "show_text_below": true
       }
+    },
+    "16360530517cd9effd": {
+      "type": "more-buttons",
+      "blocks": {
+        "16360530517cd9effd-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "16360530517cd9effd-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "16360530517cd9effd-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Apply",
+            "button_link": "shopify:\/\/pages\/apply",
+            "button_style_secondary": false
+          }
+        },
+        "16360530517cd9effd-3": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "16360530517cd9effd-4": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "16360530517cd9effd-5": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "16360530517cd9effd-6": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "16360530517cd9effd-7": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "16360530517cd9effd-8": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "16360530517cd9effd-9": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "16360530517cd9effd-10": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "16360530517cd9effd-11": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16360530517cd9effd-0",
+        "16360530517cd9effd-1",
+        "16360530517cd9effd-2",
+        "16360530517cd9effd-3",
+        "16360530517cd9effd-4",
+        "16360530517cd9effd-5",
+        "16360530517cd9effd-6",
+        "16360530517cd9effd-7",
+        "16360530517cd9effd-8",
+        "16360530517cd9effd-9",
+        "16360530517cd9effd-10",
+        "16360530517cd9effd-11"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     }
   },
   "order": [
     "main",
     "1635134557bf3c7e6d",
-    "163600325628c49074"
+    "163600325628c49074",
+    "16360530517cd9effd"
   ]
 }
