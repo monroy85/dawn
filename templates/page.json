@@ -56,6 +56,7 @@
     },
     "163600325628c49074": {
       "type": "image-banner-more-buttons",
+      "disabled": true,
       "blocks": {
         "163600325628c49074-0": {
           "type": "heading",
@@ -138,14 +139,14 @@
         "16360530517cd9effd-0": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Salty Links",
             "heading_size": "h1"
           }
         },
         "16360530517cd9effd-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Everything you need all in one place<\/p>"
           }
         },
         "16360530517cd9effd-3": {
