@@ -168,8 +168,8 @@
         "16360530517cd9effd-4": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Krystal's Amazon Shop",
+            "button_link": "https:\/\/www.amazon.com\/shop\/saltyhairextensions",
             "button_style_secondary": false
           }
         },
