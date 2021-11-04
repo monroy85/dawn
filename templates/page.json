@@ -54,50 +54,6 @@
         "show_text_below": true
       }
     },
-    "1636002592f103abc2": {
-      "type": "image-banner",
-      "blocks": {
-        "1636002592f103abc2-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "medium"
-          }
-        },
-        "1636002592f103abc2-1": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
-          }
-        },
-        "1636002592f103abc2-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1636002592f103abc2-0",
-        "1636002592f103abc2-1",
-        "1636002592f103abc2-2"
-      ],
-      "settings": {
-        "image_height": "medium",
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
-        "show_text_box": true,
-        "image_overlay_opacity": 0,
-        "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "163600325628c49074": {
       "type": "image-banner-more-buttons",
       "blocks": {
@@ -117,19 +73,19 @@
         "163600325628c49074-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
+            "button_label_1": "Shop",
+            "button_link_1": "shopify:\/\/collections",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
+            "button_label_2": "Apply",
+            "button_link_2": "shopify:\/\/pages\/apply",
             "button_style_secondary_2": false
           }
         },
         "55c25569-4f62-459e-9ce2-87176bebfa25": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
+            "button_label_1": "Ed",
+            "button_link_1": "shopify:\/\/pages\/education",
             "button_style_secondary_1": false,
             "button_label_2": "Button label",
             "button_link_2": "",
@@ -146,11 +102,11 @@
         "207a49be-1ba1-4b09-91b9-4bc7203e1a1d": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
+            "button_label_1": "Get Certified",
+            "button_link_1": "https:\/\/thesaltymethod.mykajabi.com\/extension-application",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
+            "button_label_2": "Education",
+            "button_link_2": "shopify:\/\/pages\/education",
             "button_style_secondary_2": false
           }
         }
@@ -164,13 +120,14 @@
         "207a49be-1ba1-4b09-91b9-4bc7203e1a1d"
       ],
       "settings": {
-        "image_height": "medium",
+        "image": "shopify:\/\/shop_images\/7Z5A1567-min.jpg",
+        "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "center",
         "show_text_box": true,
-        "image_overlay_opacity": 0,
+        "image_overlay_opacity": 10,
         "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
+        "stack_images_on_mobile": false,
         "show_text_below": true
       }
     }
@@ -178,7 +135,6 @@
   "order": [
     "main",
     "1635134557bf3c7e6d",
-    "1636002592f103abc2",
     "163600325628c49074"
   ]
 }
