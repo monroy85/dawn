@@ -60,14 +60,14 @@
         "163600325628c49074-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Salty Links",
             "heading_size": "medium"
           }
         },
         "163600325628c49074-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
+            "text": "Everything you need all in one place"
           }
         },
         "163600325628c49074-2": {
@@ -83,6 +83,7 @@
         },
         "55c25569-4f62-459e-9ce2-87176bebfa25": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Ed",
             "button_link_1": "shopify:\/\/pages\/education",
@@ -95,7 +96,7 @@
         "ace7fd29-6181-4465-92e1-fd076649974a": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Education",
             "heading_size": "medium"
           }
         },
