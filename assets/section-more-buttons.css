@@ -73,9 +73,12 @@
   margin-top: 2rem;
 }
 
-.rich-text__blocks > * + a {
-  margin-top: 2rem;
-  margin-left: 1rem;
-  margin-right; 1rem;
-  width: calc(100% - 1rem);
+.rich-text__blocks>*+a {
+    margin-top: 2
+rem
+;
+    margin-left: 0
+rem
+;
+    width: 100%;
 }
