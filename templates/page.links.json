@@ -1,0 +1,270 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1635134557bf3c7e6d": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "1635134557bf3c7e6d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "FAQ's",
+            "heading_size": "medium"
+          }
+        },
+        "1635134557bf3c7e6d-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Video training in the Salty Hair Extension Method Move through at your own pace"
+          }
+        },
+        "1635134557bf3c7e6d-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1635134557bf3c7e6d-0",
+        "1635134557bf3c7e6d-1",
+        "1635134557bf3c7e6d-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/7Z5A1048-min.jpg",
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "163600325628c49074": {
+      "type": "image-banner-more-buttons",
+      "disabled": true,
+      "blocks": {
+        "163600325628c49074-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Salty Links",
+            "heading_size": "medium"
+          }
+        },
+        "163600325628c49074-1": {
+          "type": "text",
+          "settings": {
+            "text": "Everything you need all in one place"
+          }
+        },
+        "163600325628c49074-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop",
+            "button_link_1": "shopify:\/\/collections",
+            "button_style_secondary_1": false,
+            "button_label_2": "Apply",
+            "button_link_2": "shopify:\/\/pages\/apply",
+            "button_style_secondary_2": false
+          }
+        },
+        "55c25569-4f62-459e-9ce2-87176bebfa25": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Ed",
+            "button_link_1": "shopify:\/\/pages\/education",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "ace7fd29-6181-4465-92e1-fd076649974a": {
+          "type": "heading",
+          "settings": {
+            "heading": "Education",
+            "heading_size": "medium"
+          }
+        },
+        "207a49be-1ba1-4b09-91b9-4bc7203e1a1d": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Get Certified",
+            "button_link_1": "https:\/\/thesaltymethod.mykajabi.com\/extension-application",
+            "button_style_secondary_1": false,
+            "button_label_2": "Education",
+            "button_link_2": "shopify:\/\/pages\/education",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "163600325628c49074-0",
+        "163600325628c49074-1",
+        "163600325628c49074-2",
+        "55c25569-4f62-459e-9ce2-87176bebfa25",
+        "ace7fd29-6181-4465-92e1-fd076649974a",
+        "207a49be-1ba1-4b09-91b9-4bc7203e1a1d"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/7Z5A1567-min.jpg",
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 10,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
+      }
+    },
+    "16360530517cd9effd": {
+      "type": "more-buttons",
+      "blocks": {
+        "16360530517cd9effd-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Salty Links",
+            "heading_size": "h1"
+          }
+        },
+        "16360530517cd9effd-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Everything you need all in one place<\/p>"
+          }
+        },
+        "16360530517cd9effd-3": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop",
+            "button_link": "shopify:\/\/collections",
+            "button_style_secondary": false
+          }
+        },
+        "16360530517cd9effd-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Apply",
+            "button_link": "shopify:\/\/pages\/apply",
+            "button_style_secondary": false
+          }
+        },
+        "16360530517cd9effd-4": {
+          "type": "button",
+          "settings": {
+            "button_label": "Krystal's Amazon Shop",
+            "button_link": "https:\/\/www.amazon.com\/shop\/saltyhairextensions",
+            "button_style_secondary": false
+          }
+        },
+        "16360530517cd9effd-5": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "16360530517cd9effd-6": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "c77e98e3-c8c6-4752-adae-64372fd44d13": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Education<\/strong><\/p>"
+          }
+        },
+        "16360530517cd9effd-7": {
+          "type": "button",
+          "settings": {
+            "button_label": "Education",
+            "button_link": "shopify:\/\/pages\/education",
+            "button_style_secondary": false
+          }
+        },
+        "16360530517cd9effd-8": {
+          "type": "button",
+          "settings": {
+            "button_label": "Get Certified",
+            "button_link": "https:\/\/thesaltymethod.mykajabi.com\/extension-application",
+            "button_style_secondary": false
+          }
+        },
+        "16360530517cd9effd-9": {
+          "type": "button",
+          "settings": {
+            "button_label": "Self Paced Salty Method Training",
+            "button_link": "https:\/\/thesaltymethod.mykajabi.com\/extension-training-application",
+            "button_style_secondary": false
+          }
+        },
+        "16360530517cd9effd-10": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "16360530517cd9effd-11": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16360530517cd9effd-0",
+        "16360530517cd9effd-1",
+        "16360530517cd9effd-3",
+        "16360530517cd9effd-2",
+        "16360530517cd9effd-4",
+        "16360530517cd9effd-5",
+        "16360530517cd9effd-6",
+        "c77e98e3-c8c6-4752-adae-64372fd44d13",
+        "16360530517cd9effd-7",
+        "16360530517cd9effd-8",
+        "16360530517cd9effd-9",
+        "16360530517cd9effd-10",
+        "16360530517cd9effd-11"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1635134557bf3c7e6d",
+    "163600325628c49074",
+    "16360530517cd9effd"
+  ]
+}
