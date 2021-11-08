@@ -2,25 +2,6 @@
   "sections": {
     "1636413437f06a19af": {
       "type": "apps",
-      "blocks": {
-        "9327ff55-6292-4434-8578-bb9a3fceaea8": {
-          "type": "shopify:\/\/apps\/back-in-stock-restock-alerts\/blocks\/product-restore-email\/b190bced-3b7b-47da-a05f-6ea4821c3a77",
-          "settings": {
-            "em_email_button_color": "#FFFFFF",
-            "em_email_button_background": "#333333",
-            "em_email_button_content": "EMAIL ME WHEN AVAILABLE",
-            "em_email_button_text_align": "center",
-            "font_size": 14,
-            "border_radius": 2,
-            "em_email_button_font_family": "inherit",
-            "em_email_button_font_weight": "inherit",
-            "em_show_powered_by": "block"
-          }
-        }
-      },
-      "block_order": [
-        "9327ff55-6292-4434-8578-bb9a3fceaea8"
-      ],
       "settings": {
         "include_margins": true
       }
