@@ -121,12 +121,59 @@
         "color_scheme": "background-1",
         "full_width": true
       }
+    },
+    "16364165769d67645b": {
+      "type": "sh-julia-promo-2",
+      "blocks": {
+        "93237748-86a9-4156-b2de-d96d443676f4": {
+          "type": "list",
+          "settings": {
+            "text": "Video training in the Salty Hair Extension Method"
+          }
+        },
+        "3c912309-4cf6-432e-b90b-d15b6196ce91": {
+          "type": "list",
+          "settings": {
+            "text": "Move through at your own pace"
+          }
+        },
+        "8ab5192e-c7c2-47ca-ba54-28450461cb13": {
+          "type": "list",
+          "settings": {
+            "text": "Lifetime access to course"
+          }
+        },
+        "dc82528e-379f-48ca-8e14-7efb8f95b2d2": {
+          "type": "list",
+          "settings": {
+            "text": "Exclusive Salty Hair Extension Kit ($300 value)"
+          }
+        }
+      },
+      "block_order": [
+        "93237748-86a9-4156-b2de-d96d443676f4",
+        "3c912309-4cf6-432e-b90b-d15b6196ce91",
+        "8ab5192e-c7c2-47ca-ba54-28450461cb13",
+        "dc82528e-379f-48ca-8e14-7efb8f95b2d2"
+      ],
+      "settings": {
+        "title": "The Salty Method Training",
+        "subtitle": "",
+        "image": "shopify:\/\/shop_images\/7Z5A1567-min.jpg",
+        "content": "<p><em><strong>$1700<\/strong><\/em><\/p>",
+        "button_string": "Yes Please",
+        "link": "https:\/\/thesaltymethod.mykajabi.com\/extension-training-application",
+        "variant": "left_text",
+        "margin_top": "",
+        "margin_bottom": ""
+      }
     }
   },
   "order": [
     "main",
     "1635134557bf3c7e6d",
     "1635135189a1b9322d",
-    "163513479109602f01"
+    "163513479109602f01",
+    "16364165769d67645b"
   ]
 }
