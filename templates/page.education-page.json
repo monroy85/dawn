@@ -102,49 +102,18 @@
             "columns_xs": 1
           }
         },
-        "d9a0e4bc-136e-4438-809f-bdf726d61c20": {
-          "type": "image_video_text",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Natural-beaded-rows-Salty-Hair-extentions.jpg",
-            "image_size": "",
-            "title": "Heading",
-            "content": "",
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-            "columns": 4,
-            "columns_md": 1,
-            "columns_sm": 1,
-            "columns_xs": 1
-          }
-        },
         "5ab86fa9-654b-463a-a984-2a2ea2714be4": {
           "type": "image_text_button",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/7Z5A1133-min.jpg",
             "image_size": "",
-            "title": "Heading",
-            "content": "<p>ghj<\/p>",
-            "button_string": "Get more info",
-            "link": "",
+            "title": "The Salty Method In-Person Certification",
+            "content": "<p>1 day training in AZ on December 5th<\/p><p>9 am - 2pm<\/p><p>Hair kit included<\/p><p>Lunch provided<\/p><p>Mannequin head and practice hair provided<\/p><p>Gain Access to our Salty hair extensions. Our highly exclusive Luxury hand tied hair line. <\/p><p>Gain access to our online certification course and all that comes with it<\/p><p> <\/p><p>1 payment of $5000<\/p><p>Or 2 payments of $2500<\/p>",
+            "button_string": "Register Here",
+            "link": "https:\/\/thesaltymethod.mykajabi.com\/offers\/R8adVhVA\/checkout",
             "inverted": false,
-            "columns": 2,
-            "columns_md": 1,
-            "columns_sm": 1,
-            "columns_xs": 1
-          }
-        },
-        "2e6706cc-7f40-4683-bd1f-aa187ede29b5": {
-          "type": "image_text_button",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/7Z5A1675-min.jpg",
-            "image_size": "",
-            "title": "Heading",
-            "content": "",
-            "button_string": "Get more info",
-            "link": "",
-            "inverted": false,
-            "columns": 2,
+            "columns": 1,
             "columns_md": 1,
             "columns_sm": 1,
             "columns_xs": 1
@@ -160,7 +129,7 @@
             "button_string": "Apply Now",
             "link": "https:\/\/thesaltymethod.mykajabi.com\/extension-training-application",
             "inverted": false,
-            "columns": 3,
+            "columns": 1,
             "columns_md": 1,
             "columns_sm": 1,
             "columns_xs": 1
@@ -169,15 +138,13 @@
       },
       "block_order": [
         "9ea55858-638e-4999-9324-79f42d77635a",
-        "d9a0e4bc-136e-4438-809f-bdf726d61c20",
         "5ab86fa9-654b-463a-a984-2a2ea2714be4",
-        "2e6706cc-7f40-4683-bd1f-aa187ede29b5",
         "3a722b04-0fa0-4984-9332-10da5621451a"
       ],
       "settings": {
-        "title": "Items grid",
-        "subtitle": "hmn",
-        "columns": 3,
+        "title": "",
+        "subtitle": "",
+        "columns": 1,
         "columns_md": 3,
         "columns_sm": 2,
         "columns_xs": 1,
@@ -185,7 +152,76 @@
         "image_size": "800x800_crop_center",
         "variant": "style_1",
         "boxed": false,
+        "bg_color": "#ffffff",
+        "padding_top": "5",
+        "padding_bottom": "",
+        "margin_top": "",
+        "margin_bottom": ""
+      }
+    },
+    "1636999740f911ea70": {
+      "type": "sh-julia-process-1",
+      "blocks": {
+        "c48be03d-dc0c-4d67-bcc0-58cd650e7868": {
+          "type": "list",
+          "settings": {
+            "title": "1 day training in AZ on December 5th",
+            "content": "<p>9 am - 2pm<\/p>"
+          }
+        },
+        "06fac5b2-4229-440e-b769-437a444cfe72": {
+          "type": "list",
+          "settings": {
+            "title": "",
+            "content": "<p>Hair kit included<\/p>"
+          }
+        },
+        "c085c755-a154-4bca-ab9e-5fc0732c05a2": {
+          "type": "list",
+          "settings": {
+            "title": "",
+            "content": "<p>Lunch provided<\/p>"
+          }
+        },
+        "41a39f1e-3e36-4ba7-9f0f-28c0ef0c11af": {
+          "type": "list",
+          "settings": {
+            "title": "",
+            "content": "<p>Mannequin head and practice hair provided<\/p>"
+          }
+        },
+        "8aea6cf2-44bb-49c7-8bc0-0c9f1dae1d0c": {
+          "type": "list",
+          "settings": {
+            "title": "",
+            "content": "<p>Gain Access to our Salty hair extensions. Our highly exclusive Luxury hand tied hair line. <\/p>"
+          }
+        },
+        "6db62b32-43e7-4bb3-87db-56e36138804e": {
+          "type": "list",
+          "settings": {
+            "title": "",
+            "content": "<p>Gain access to our online certification course and all that comes with it<\/p><p> <\/p><p>1 payment of $5000<\/p><p>Or 2 payments of $2500<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "c48be03d-dc0c-4d67-bcc0-58cd650e7868",
+        "06fac5b2-4229-440e-b769-437a444cfe72",
+        "c085c755-a154-4bca-ab9e-5fc0732c05a2",
+        "41a39f1e-3e36-4ba7-9f0f-28c0ef0c11af",
+        "8aea6cf2-44bb-49c7-8bc0-0c9f1dae1d0c",
+        "6db62b32-43e7-4bb3-87db-56e36138804e"
+      ],
+      "settings": {
+        "title": "The Salty Method In-Person Certification",
+        "image": "shopify:\/\/shop_images\/krystal-hand-tied-extensions.jpg",
+        "image_size": "600x600_crop_center",
+        "button_string": "Register Here",
+        "link": "https:\/\/thesaltymethod.mykajabi.com\/offers\/R8adVhVA\/checkout",
         "bg_color": "",
+        "inverted": false,
+        "variant": "right_text",
         "padding_top": "",
         "padding_bottom": "",
         "margin_top": "",
@@ -364,6 +400,7 @@
     "1636991921859d9578",
     "1636992245427af39f",
     "163699854847f96d09",
+    "1636999740f911ea70",
     "1635134557bf3c7e6d",
     "1635135189a1b9322d",
     "163513479109602f01",
