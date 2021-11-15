@@ -2,7 +2,6 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {
       }
     },
@@ -135,6 +134,7 @@
     },
     "16360530517cd9effd": {
       "type": "more-buttons",
+      "disabled": true,
       "blocks": {
         "16360530517cd9effd-0": {
           "type": "heading",
