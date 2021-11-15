@@ -6,6 +6,25 @@
       "settings": {
       }
     },
+    "1636991921859d9578": {
+      "type": "sh-julia-hero-2",
+      "settings": {
+        "title": "The Salty Method",
+        "subtitle": "",
+        "image": "shopify:\/\/shop_images\/Krystal-styling-hair.jpg",
+        "content": "<p>The Salty Method was developed and designed by Krystal Payne of Salty Hair Extensions. <\/p><p>The Salty Method is what took her from 10-12 hour days, 5 days a week, & struggling to make ends meet to just 2-3 days behind the chair, serving hundreds of her high end clients - while making more than enough money to support her family and her dreams.<\/p>",
+        "image_size": "2000x500_crop_center",
+        "button_string": "Start shopping",
+        "link": "",
+        "inverted": false,
+        "backed": true,
+        "variant": "right_text",
+        "padding_top": "",
+        "padding_bottom": "",
+        "margin_top": "",
+        "margin_bottom": "0"
+      }
+    },
     "1635134557bf3c7e6d": {
       "type": "image-banner",
       "blocks": {
@@ -89,7 +108,6 @@
     },
     "163513479109602f01": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "163513479109602f01-0": {
           "type": "heading",
@@ -125,6 +143,7 @@
     },
     "16364165769d67645b": {
       "type": "sh-julia-promo-2",
+      "disabled": true,
       "blocks": {
         "93237748-86a9-4156-b2de-d96d443676f4": {
           "type": "list",
@@ -159,8 +178,8 @@
       ],
       "settings": {
         "title": "The Salty Method Training",
-        "subtitle": "",
-        "image": "shopify:\/\/shop_images\/7Z5A1567-min.jpg",
+        "subtitle": "The Salty Method was developed and designed by Krystal Payne of Salty Hair Extensions. The Salty Method is what took her from 10-12 hour days, 5 days a week, & struggling to make ends meet to just 2-3 days behind the chair, serving hundreds of her high end clients - while making more than enough money to support her family and her dreams.",
+        "image": "shopify:\/\/shop_images\/Krystal-styling-hair.jpg",
         "content": "<p><em><strong>$1700<\/strong><\/em><\/p>",
         "button_string": "Yes Please",
         "link": "https:\/\/thesaltymethod.mykajabi.com\/extension-training-application",
@@ -168,13 +187,76 @@
         "margin_top": "",
         "margin_bottom": ""
       }
+    },
+    "1636992245427af39f": {
+      "type": "sh-julia-process-1",
+      "blocks": {
+        "30206533-d917-4d16-9c42-0998ccdbaeda": {
+          "type": "list",
+          "settings": {
+            "title": "",
+            "content": "<p>Support from Krystal and her team throughout the course<\/p>"
+          }
+        },
+        "eaa4b027-8dd0-4524-b6c5-ebca8eb6a419": {
+          "type": "list",
+          "settings": {
+            "title": "",
+            "content": "<p>Salty Hair Kit with practice hair ($250 Value) <\/p>"
+          }
+        },
+        "b656d2bd-9a65-4d44-8018-103e3876cbe9": {
+          "type": "list",
+          "settings": {
+            "title": "",
+            "content": "<p>How to custom color your extensions and how to get that lived in seamless color<\/p>"
+          }
+        },
+        "bd63385d-d6de-4f9e-b79f-b9087dde2d1f": {
+          "type": "list",
+          "settings": {
+            "title": "",
+            "content": "<p>Gain Access to our salty hair extensions.  Our highly exclusive, luxury high-tied hair line. At time of completing certification. <\/p>"
+          }
+        },
+        "9818ea3e-6320-4617-b549-9f6c82638af5": {
+          "type": "list",
+          "settings": {
+            "title": "",
+            "content": "<p>Business tools from after photos, to client consultations. All to set you up for success in a social media world<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "30206533-d917-4d16-9c42-0998ccdbaeda",
+        "eaa4b027-8dd0-4524-b6c5-ebca8eb6a419",
+        "b656d2bd-9a65-4d44-8018-103e3876cbe9",
+        "bd63385d-d6de-4f9e-b79f-b9087dde2d1f",
+        "9818ea3e-6320-4617-b549-9f6c82638af5"
+      ],
+      "settings": {
+        "title": "THE SALTY METHOD ONLINE CERTIFICATION",
+        "image": "shopify:\/\/shop_images\/Krystal-styling-hair.jpg",
+        "image_size": "600x600_crop_center",
+        "button_string": "Apply now $2200 Certification begins on January 7, 2022",
+        "link": "https:\/\/thesaltymethod.mykajabi.com\/extension-application",
+        "bg_color": "#ffffff",
+        "inverted": false,
+        "variant": "left_text",
+        "padding_top": "",
+        "padding_bottom": "",
+        "margin_top": "",
+        "margin_bottom": ""
+      }
     }
   },
   "order": [
     "main",
+    "1636991921859d9578",
     "1635134557bf3c7e6d",
     "1635135189a1b9322d",
     "163513479109602f01",
-    "16364165769d67645b"
+    "16364165769d67645b",
+    "1636992245427af39f"
   ]
 }
