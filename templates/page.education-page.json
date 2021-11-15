@@ -11,7 +11,7 @@
       "settings": {
         "title": "The Salty Method",
         "subtitle": "",
-        "image": "shopify:\/\/shop_images\/Krystal-styling-hair.jpg",
+        "image": "shopify:\/\/shop_images\/7Z5A1063-min.jpg",
         "content": "<p>The Salty Method was developed and designed by Krystal Payne of Salty Hair Extensions. <\/p><p>The Salty Method is what took her from 10-12 hour days, 5 days a week, & struggling to make ends meet to just 2-3 days behind the chair, serving hundreds of her high end clients - while making more than enough money to support her family and her dreams.<\/p>",
         "image_size": "2000x500_crop_center",
         "button_string": "Start shopping",
@@ -25,8 +25,176 @@
         "margin_bottom": "0"
       }
     },
+    "1636992245427af39f": {
+      "type": "sh-julia-process-1",
+      "blocks": {
+        "30206533-d917-4d16-9c42-0998ccdbaeda": {
+          "type": "list",
+          "settings": {
+            "title": "",
+            "content": "<p>Support from Krystal and her team throughout the course<\/p>"
+          }
+        },
+        "eaa4b027-8dd0-4524-b6c5-ebca8eb6a419": {
+          "type": "list",
+          "settings": {
+            "title": "",
+            "content": "<p>Salty Hair Kit with practice hair ($250 Value) <\/p>"
+          }
+        },
+        "b656d2bd-9a65-4d44-8018-103e3876cbe9": {
+          "type": "list",
+          "settings": {
+            "title": "",
+            "content": "<p>How to custom color your extensions and how to get that lived in seamless color<\/p>"
+          }
+        },
+        "bd63385d-d6de-4f9e-b79f-b9087dde2d1f": {
+          "type": "list",
+          "settings": {
+            "title": "",
+            "content": "<p>Gain Access to our salty hair extensions.  Our highly exclusive, luxury high-tied hair line. At time of completing certification. <\/p>"
+          }
+        },
+        "9818ea3e-6320-4617-b549-9f6c82638af5": {
+          "type": "list",
+          "settings": {
+            "title": "",
+            "content": "<p>Business tools from after photos, to client consultations. All to set you up for success in a social media world<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "30206533-d917-4d16-9c42-0998ccdbaeda",
+        "eaa4b027-8dd0-4524-b6c5-ebca8eb6a419",
+        "b656d2bd-9a65-4d44-8018-103e3876cbe9",
+        "bd63385d-d6de-4f9e-b79f-b9087dde2d1f",
+        "9818ea3e-6320-4617-b549-9f6c82638af5"
+      ],
+      "settings": {
+        "title": "THE SALTY METHOD ONLINE CERTIFICATION",
+        "image": "shopify:\/\/shop_images\/Krystal-styling-hair.jpg",
+        "image_size": "600x600_crop_center",
+        "button_string": "Apply now $2200 Certification begins on January 7, 2022",
+        "link": "https:\/\/thesaltymethod.mykajabi.com\/extension-application",
+        "bg_color": "#ffffff",
+        "inverted": false,
+        "variant": "left_text",
+        "padding_top": "",
+        "padding_bottom": "",
+        "margin_top": "",
+        "margin_bottom": ""
+      }
+    },
+    "163699854847f96d09": {
+      "type": "sh-julia-grid-2",
+      "blocks": {
+        "9ea55858-638e-4999-9324-79f42d77635a": {
+          "type": "link_image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Natural-beaded-rows-Salty-Hair-extentions.jpg",
+            "image_size": "",
+            "link": "",
+            "columns": 2,
+            "columns_md": 1,
+            "columns_sm": 1,
+            "columns_xs": 1
+          }
+        },
+        "d9a0e4bc-136e-4438-809f-bdf726d61c20": {
+          "type": "image_video_text",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Natural-beaded-rows-Salty-Hair-extentions.jpg",
+            "image_size": "",
+            "title": "Heading",
+            "content": "",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "columns": 4,
+            "columns_md": 1,
+            "columns_sm": 1,
+            "columns_xs": 1
+          }
+        },
+        "5ab86fa9-654b-463a-a984-2a2ea2714be4": {
+          "type": "image_text_button",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7Z5A1133-min.jpg",
+            "image_size": "",
+            "title": "Heading",
+            "content": "<p>ghj<\/p>",
+            "button_string": "Get more info",
+            "link": "",
+            "inverted": false,
+            "columns": 2,
+            "columns_md": 1,
+            "columns_sm": 1,
+            "columns_xs": 1
+          }
+        },
+        "2e6706cc-7f40-4683-bd1f-aa187ede29b5": {
+          "type": "image_text_button",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7Z5A1675-min.jpg",
+            "image_size": "",
+            "title": "Heading",
+            "content": "",
+            "button_string": "Get more info",
+            "link": "",
+            "inverted": false,
+            "columns": 2,
+            "columns_md": 1,
+            "columns_sm": 1,
+            "columns_xs": 1
+          }
+        },
+        "3a722b04-0fa0-4984-9332-10da5621451a": {
+          "type": "image_text_button",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Natural-beaded-rows-Salty-Hair-extentions.jpg",
+            "image_size": "",
+            "title": "Salty Hair Extension Training",
+            "content": "<p>Salty Hair Kit with practice hair ($250 Value) <\/p><p>How to custom color your hair extensions and how to get that lived in seamless color<\/p><p>Self-paced 5 module course<\/p><p>$1700<\/p>",
+            "button_string": "Apply Now",
+            "link": "https:\/\/thesaltymethod.mykajabi.com\/extension-training-application",
+            "inverted": false,
+            "columns": 3,
+            "columns_md": 1,
+            "columns_sm": 1,
+            "columns_xs": 1
+          }
+        }
+      },
+      "block_order": [
+        "9ea55858-638e-4999-9324-79f42d77635a",
+        "d9a0e4bc-136e-4438-809f-bdf726d61c20",
+        "5ab86fa9-654b-463a-a984-2a2ea2714be4",
+        "2e6706cc-7f40-4683-bd1f-aa187ede29b5",
+        "3a722b04-0fa0-4984-9332-10da5621451a"
+      ],
+      "settings": {
+        "title": "Items grid",
+        "subtitle": "hmn",
+        "columns": 3,
+        "columns_md": 3,
+        "columns_sm": 2,
+        "columns_xs": 1,
+        "gutter": "0",
+        "image_size": "800x800_crop_center",
+        "variant": "style_1",
+        "boxed": false,
+        "bg_color": "",
+        "padding_top": "",
+        "padding_bottom": "",
+        "margin_top": "",
+        "margin_bottom": ""
+      }
+    },
     "1635134557bf3c7e6d": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "1635134557bf3c7e6d-0": {
           "type": "heading",
@@ -73,6 +241,7 @@
     },
     "1635135189a1b9322d": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "1635135189a1b9322d-0": {
           "type": "heading",
@@ -108,6 +277,7 @@
     },
     "163513479109602f01": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "163513479109602f01-0": {
           "type": "heading",
@@ -187,76 +357,16 @@
         "margin_top": "",
         "margin_bottom": ""
       }
-    },
-    "1636992245427af39f": {
-      "type": "sh-julia-process-1",
-      "blocks": {
-        "30206533-d917-4d16-9c42-0998ccdbaeda": {
-          "type": "list",
-          "settings": {
-            "title": "",
-            "content": "<p>Support from Krystal and her team throughout the course<\/p>"
-          }
-        },
-        "eaa4b027-8dd0-4524-b6c5-ebca8eb6a419": {
-          "type": "list",
-          "settings": {
-            "title": "",
-            "content": "<p>Salty Hair Kit with practice hair ($250 Value) <\/p>"
-          }
-        },
-        "b656d2bd-9a65-4d44-8018-103e3876cbe9": {
-          "type": "list",
-          "settings": {
-            "title": "",
-            "content": "<p>How to custom color your extensions and how to get that lived in seamless color<\/p>"
-          }
-        },
-        "bd63385d-d6de-4f9e-b79f-b9087dde2d1f": {
-          "type": "list",
-          "settings": {
-            "title": "",
-            "content": "<p>Gain Access to our salty hair extensions.  Our highly exclusive, luxury high-tied hair line. At time of completing certification. <\/p>"
-          }
-        },
-        "9818ea3e-6320-4617-b549-9f6c82638af5": {
-          "type": "list",
-          "settings": {
-            "title": "",
-            "content": "<p>Business tools from after photos, to client consultations. All to set you up for success in a social media world<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "30206533-d917-4d16-9c42-0998ccdbaeda",
-        "eaa4b027-8dd0-4524-b6c5-ebca8eb6a419",
-        "b656d2bd-9a65-4d44-8018-103e3876cbe9",
-        "bd63385d-d6de-4f9e-b79f-b9087dde2d1f",
-        "9818ea3e-6320-4617-b549-9f6c82638af5"
-      ],
-      "settings": {
-        "title": "THE SALTY METHOD ONLINE CERTIFICATION",
-        "image": "shopify:\/\/shop_images\/Krystal-styling-hair.jpg",
-        "image_size": "600x600_crop_center",
-        "button_string": "Apply now $2200 Certification begins on January 7, 2022",
-        "link": "https:\/\/thesaltymethod.mykajabi.com\/extension-application",
-        "bg_color": "#ffffff",
-        "inverted": false,
-        "variant": "left_text",
-        "padding_top": "",
-        "padding_bottom": "",
-        "margin_top": "",
-        "margin_bottom": ""
-      }
     }
   },
   "order": [
     "main",
     "1636991921859d9578",
+    "1636992245427af39f",
+    "163699854847f96d09",
     "1635134557bf3c7e6d",
     "1635135189a1b9322d",
     "163513479109602f01",
-    "16364165769d67645b",
-    "1636992245427af39f"
+    "16364165769d67645b"
   ]
 }
